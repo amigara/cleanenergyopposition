@@ -11,7 +11,7 @@
   * Double-check values for accuracy  
   * Manually fill in gaps
 
-## Data analysis methodology
+## Data analysis & visualization
 * **Using Google Sheets:**  
   * For projects that span multiple counties, separate comma-separated county names into multiple columns  
   * Combine county and state names into a “county1\_state” column to create unique county names and avoid duplicate county names in different states  

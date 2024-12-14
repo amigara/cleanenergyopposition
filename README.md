@@ -1,3 +1,5 @@
+**Project Methodology and Processes**
+
 * **Using ChatGPT 4o (plus version):**  
   * Load Columbia Sabin Center’s report, “[Opposition to Renewable Energy Facilities in the United States: June 2024 Edition](https://scholarship.law.columbia.edu/sabin_climate_change/226/)” into Microsoft Word to perform text recognition (Note: I tested this using the .pdf file and relying on ChatGPT to do the text recognition, but this didn’t work as well.)  
   * Prompt ChatGPT to extract municipality names based on headers in the document. Here’s an example of a starting prompt:   
